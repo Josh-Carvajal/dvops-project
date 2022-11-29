@@ -4,9 +4,14 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Insert title here</title>
+<title>Login</title>
 </head>
 <body>
-	<h1>Hello World</h1>
+	<h1>Please Log in:</h1>
+	<form action="LoginServlet" method="post">
+		<ul>Enter your name: <input type="text" name="userName" size="20"/></ul>
+		<ul>Enter your password: <input type="password" name="password" size="20"/></ul>
+		<ul><input type="submit" value="Login"/></ul>
+	</form>
 </body>
 </html>
