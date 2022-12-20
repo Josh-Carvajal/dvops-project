@@ -42,6 +42,7 @@ public class AddReminderServlet extends HttpServlet {
 		writer.println("<a>Reminder:" + reminder + "</a><br><a>Reminder Description:" + remDesc +"</a><br><a>Priority:" + priority + "</a><br><a href='/DVOPS_Project/home.jsp'>Home</a> ");
 		writer.close();
 		doGet(request, response);
+		
 		// TODO Auto-generated method stub
 		doGet(request, response);
 	}
