@@ -8,6 +8,9 @@
 </head>
 <body>
 	<h1>Hello World</h1>
-	Logged in successfully
+	Logged in 
+	
+	<input type=button value=Reminder onClick=()>
+	<a href="/DVOPS_Project/reminder-form.jsp">Add Reminder</a>
 </body>
 </html>
