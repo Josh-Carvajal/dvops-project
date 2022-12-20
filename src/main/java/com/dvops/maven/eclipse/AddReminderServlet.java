@@ -20,6 +20,7 @@ public class AddReminderServlet extends HttpServlet {
     public AddReminderServlet() {
         super();
         // TODO Auto-generated constructor stub
+        
     }
 	/**
 	 * @see HttpServlet#doGet(HttpServletRequest request, HttpServletResponse response)
