@@ -19,7 +19,7 @@
 				<input type="radio" id="high" name="priority" value="!!!"/>
 				<label for="!!!">!!!</label>
 		</ul>
-		
+	
 		<ul><input type="submit" name="add" value="Add reminder"/></ul>
 	</form>
 </body>
