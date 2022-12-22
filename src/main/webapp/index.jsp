@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Future Tasks</title>
+<title>Future Reminders</title>
 <%@include file="component/all_css.jsp" %>
 
 
