@@ -37,7 +37,7 @@
     <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" name="tasks">
   </div>
   <div class="form-group">
-    <label for="exampleInputEmail1">Time</label>
+    <label for="exampleInputEmail1"></label>
     <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" name="tasks">
   </div>
   
