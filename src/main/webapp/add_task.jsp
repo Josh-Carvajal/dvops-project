@@ -21,9 +21,26 @@
     <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" name="username">
   </div>
   <div class="form-group">
-    <label for="exampleInputEmail1">Tasks</label>
+    <label for="exampleInputEmail1">Reminder</label>
     <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" name="tasks">
   </div>
+  <div class="form-group">
+    <label for="exampleInputEmail1">Status</label>
+    <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" name="tasks">
+  </div>
+  <div class="form-group">
+    <label for="exampleInputEmail1">Importance</label>
+    <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" name="tasks">
+  </div>
+  <div class="form-group">
+    <label for="exampleInputEmail1">Date</label>
+    <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" name="tasks">
+  </div>
+  <div class="form-group">
+    <label for="exampleInputEmail1">Time</label>
+    <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" name="tasks">
+  </div>
+  
 <div class="form-group">
       <label for="inputState">Status</label>
       <select id="inputState" class="form-control" name="status">
