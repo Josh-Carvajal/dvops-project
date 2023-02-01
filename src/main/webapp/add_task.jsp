@@ -25,10 +25,6 @@
     <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" name="tasks">
   </div>
   <div class="form-group">
-    <label for="exampleInputEmail1">Reminder</label>
-    <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" name="tasks">
-  </div>
-  <div class="form-group">
     <label for="exampleInputEmail1">Status</label>
     <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" name="tasks">
   </div>
